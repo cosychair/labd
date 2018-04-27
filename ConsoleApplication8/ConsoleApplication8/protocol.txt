@@ -1,0 +1,14 @@
+
+---FIELD---
+sixthstring6
+--LIST---OUTPUT--
+firststring1---->
+secondstring2---->
+thirdstring3---->
+sixthstring66---->
+forthstring4---->
+fifthstring5---->
+sixthstring66---->
+seventhstring7---->
+firststring1---->
+sixthstring6---->

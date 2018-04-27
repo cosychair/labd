@@ -1,0 +1,3 @@
+﻿  list.cpp
+c:\users\владислав\documents\visual studio 2015\projects\consoleapplication8\consoleapplication8\list.cpp(55): warning C4101: 'last': unreferenced local variable
+LINK : fatal error LNK1168: cannot open C:\Users\Владислав\Documents\Visual Studio 2015\Projects\ConsoleApplication8\Debug\ConsoleApplication8.exe for writing
